@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Housing Development"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Regional Planning"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Public Administration"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4fdc2f44-984c-d6f6-4e65-f7cee55b5a9b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Housing and Land Use in Rapidly Urbanizing Regions",
+  "course_description": "A truly inter-disciplinary course, Housing and Land Use in Rapidly Urbanizing Regions reviews how law, economics, sociology, political science, and planning conceptualize urban land and property rights and uses cases to discuss what these different lenses illuminate and obscure. It also looks at how the social sciences might be informed by how design, cartography, and visual studies conceptualize space's physicality. This year's topics include land trusts for affordable housing, mixed-use in public space, and critical cartography.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.483",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
